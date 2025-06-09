@@ -8,6 +8,7 @@
 前端系统：基于 Vue3 + TypeScript + Vite，提供现代化、易用的资产管理界面。
 AI智能评估服务：集成大模型能力，支持自然语言资产价值评估问答，提升用户体验。
 IPFS分布式存储：支持资产相关文件的去中心化存储，增强数据安全性与可用性。
+
 ## 主要功能
 资产登记、查询与全流程上链管理
 资产交易撮合与多方协作审批
@@ -15,3 +16,26 @@ IPFS分布式存储：支持资产相关文件的去中心化存储，增强数�
 AI驱动的资产价值智能评估（支持房产、车辆、设备等多类型）
 资产相关文件的分布式存储与访问
 完善的区块链浏览与审计功能
+
+## 功能介绍
+物理部署部分：
+
+![image](https://github.com/user-attachments/assets/408d1d28-17ae-4986-b513-bb6e15b1d6b5)
+
+功能结构部分：
+
+![image](https://github.com/user-attachments/assets/85c0bbfd-4692-4e14-a922-fd40ab47d31d)
+
+部分页面展示：
+
+![image](https://github.com/user-attachments/assets/85de6436-7c58-4adb-bbf6-c981534f53ba)
+![image](https://github.com/user-attachments/assets/3a840335-e98a-41df-868e-5c39d9a29310)
+
+交易过程：
+
+![image](https://github.com/user-attachments/assets/dfbccc7f-e5ff-4c39-a166-dc2a261f89a3)
+![image](https://github.com/user-attachments/assets/a2e6d872-d91f-4c5e-90ea-7e9b91c9aa41)
+![image](https://github.com/user-attachments/assets/7071c024-015c-467d-9d8b-4d5a48054766)
+![image](https://github.com/user-attachments/assets/ac00533e-3222-41bb-b0ad-de8ef8a1453a)
+
+
